@@ -21,7 +21,8 @@
     "jms/serializer-bundle": "~1.0",
     "friendsofsymfony/rest-bundle": "~1.7",
     "willdurand/hateoas-bundle": "~1.0",
-    "pagerfanta/pagerfanta": "~1.0"
+    "pagerfanta/pagerfanta": "~1.0",
+    "uniquelibs/request-to-query-builder-bundle": "0.1"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.6",
