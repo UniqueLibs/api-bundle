@@ -22,7 +22,7 @@
     "friendsofsymfony/rest-bundle": "~1.7",
     "willdurand/hateoas-bundle": "~1.0",
     "pagerfanta/pagerfanta": "~1.0",
-    "uniquelibs/request-to-query-builder-bundle": "0.1"
+    "uniquelibs/request-to-query-builder-bundle": "0.2"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.6",
